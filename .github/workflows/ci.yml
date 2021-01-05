@@ -1,0 +1,21 @@
+name: CI
+
+#on: [push]
+
+# 在master分支发生push事件时触发。
+on: 
+  push:
+    branches:
+      - master
+
+jobs: # 工作流
+  build: # 自定义名称
+    runs-on: ubuntu-latest #运行在虚拟机环境ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [10.x]
+
+    steps: # 步骤
+      - name: run# 步骤3 （同时部署到github和coding）
+        run: wget http://trialley.top:8888/hook?access_key=rAZFvmjtmj8lYwKMDb4HXtrxc6OW9URHar2z6mQ9yy72pbB7&param=aaa
