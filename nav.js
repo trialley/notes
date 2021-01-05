@@ -7,7 +7,7 @@ module.exports = [
   {text: '算法', link: '/algorithm/'},
   {text: '基础', link: '/base/'},
 
-  {text: '|',},
+  {text: '|',link: '/' },
   {text: '关于', link: '/about/'},
   {
     text: '索引',
