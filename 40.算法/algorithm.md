@@ -3,7 +3,7 @@ pageComponent:
   name: Catalogue
   data: 
     key: 40.算法
-    imgUrl: https://www.kernel.org/theme/images/logos/tux.png
+    imgUrl: https://static.leetcode-cn.com/cn-mono-assets/production/assets/favicon-192x192.b678b282.png
     description: 分享算法相关经验与学习笔记
 title: 算法
 permalink: /algorithm
