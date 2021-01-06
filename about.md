@@ -7,13 +7,16 @@ sidebar: false
 article: false
 ---
 
-
+### 关于本站
 
 这是一个兼具博客与知识管理双重功能的个人网站，有些杂七杂八的文章。如果你喜欢这个博客，欢迎到[GitHub](https://github.com/trialley/notes)点个Star，或者交换[友链](/friends/) 。如果您有意见或建议，欢迎在本文下方留言( •̀ ω •́ )✧。
 
 > 文章内容仅是我个人的小总结，资历尚浅，如有误还请指正。
 
-
+#### 建站相关
+- 框架：vuepres https://www.vuepress.cn/
+- 主题：vdoing https://github.com/xugaoyi/vuepress-theme-vdoing
+- 机器：阿里云1c2m
 
 ### 关于我
 
