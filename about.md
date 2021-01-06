@@ -7,7 +7,7 @@ sidebar: false
 article: false
 ---
 
-### 关于本站
+### 关于本站？
 
 这是一个兼具博客与知识管理双重功能的个人网站，有些杂七杂八的文章。如果你喜欢这个博客，欢迎到[GitHub](https://github.com/trialley/notes)点个Star，或者交换[友链](/friends/) 。如果您有意见或建议，欢迎在本文下方留言( •̀ ω •́ )✧。
 
