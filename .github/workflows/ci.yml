@@ -18,4 +18,4 @@ jobs: # 工作流
 
     steps: # 步骤
       - name: run# 步骤3 （同时部署到github和coding）
-        run: wget http://trialley.top:8888/hook?access_key=rAZFvmjtmj8lYwKMDb4HXtrxc6OW9URHar2z6mQ9yy72pbB7&param=aaa
+        run: wget http://typecho.trialley.top:10086/hook?access_key=rAZFvmjtmj8lYwKMDb4HXtrxc6OW9URHar2z6mQ9yy72pbB7&param=aaa
