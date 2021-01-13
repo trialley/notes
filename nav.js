@@ -12,6 +12,8 @@ module.exports = [
       { text: '归档', link: '/archives/' },
     ],
   },
+  {text: '折腾', link: '/Geek/'},
+
 
   {text: '|',link: '/' },
   {text: '关于', link: '/about/'},
