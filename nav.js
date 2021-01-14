@@ -1,10 +1,11 @@
 // nav
 module.exports = [
   { text: '首页', link: '/' },
-  {text: '内核', link: '/Kernel/'},
+  {text: '内核与虚拟化', link: '/Kernel/'},
   {text: 'C/C++', link: '/C/'},
   {text: '云原生', link: '/CloudNative/'},
   {text: '算法', link: '/algorithm/'},
+  {text: '折腾', link: '/Geek/'},
   {text: '基础', link: '/base/',
     items: [
       { text: '《概率论与数理统计》', link: '/《概率论与数理统计》/' },
@@ -12,7 +13,6 @@ module.exports = [
       // { text: '《》', link: '/archives/' },
     ],
   },
-  {text: '折腾', link: '/Geek/'},
 
 
   {text: '|',link: '/' },
