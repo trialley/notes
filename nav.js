@@ -6,7 +6,7 @@ module.exports = [
   {text: '算法', link: '/algorithm/'},
   {text: '语言特性', link: '/language/'},
   {text: '折腾', link: '/Geek/'},
-  {text: '基础', link: '/base/',
+  {text: '基础',
     items: [
       { text: '《概率论与数理统计》', link: '/《概率论与数理统计》/' },
       // { text: '《算法导论》', link: '/tags/' },
@@ -15,7 +15,7 @@ module.exports = [
   },
 
 
-  {text: '|',link: '/' },
+  {text: '|' },
   {text: '关于', link: '/about/'},
   {
     text: '索引',

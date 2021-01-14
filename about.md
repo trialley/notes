@@ -30,11 +30,9 @@ article: false
 
 #### 联系我
 
-- **WeChat or QQ**: <a :href="qqUrl" class='qq'>1203732857</a>
+- **QQ**: <a :href="qqUrl" class='qq'>1203732857</a>
 - **Email**:  <a href="mailto:1203732857@qq.com">1203732857@qq.com</a>
 - **GitHub**: <https://github.com/trialley>
-
-
 
 ## 学习
 
