@@ -15,7 +15,7 @@ module.exports = [
   },
 
 
-  {text: '|' ,link:""},
+  {text: '|' ,link:"./"},
   {text: '关于', link: '/about/'},
   {
     text: '索引',
